@@ -1,0 +1,15 @@
+{
+  "name": "com.intecial.myunitykit",
+  "version": "1.0.0",
+  "displayName": "MyUnityKit",
+  "description": "My Personal Unity Kit",
+  "unity": "6.3",
+  "unityRelease": "6000.3.2f1",
+  "dependencies": {
+    "com.unity.cinemachine": "1.0.0",
+  },
+  "author": {
+    "name": "Louis Juliano"
+  }
+}
+
